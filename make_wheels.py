@@ -1,5 +1,5 @@
 # /// script
-# requires-python = ">=3.10"
+# requires-python = "~=3.10"
 # dependencies = [
 #   "wheel~=0.45.1",
 # ]
@@ -188,10 +188,13 @@ def write_x13_wheel(
                 "Project-URL",
                 "Homepage, https://www.census.gov/data/software/x13as.X-13ARIMA-SEATS.html",
             ),
-            ("Project-URL", "Source Code, https://github.com/bryceclaughton/x13binary"),
             (
                 "Project-URL",
-                "Bug Tracker, https://github.com/bryceclaughton/x13binary/issues",
+                "Source Code, https://github.com/bryceclaughton/x13binary-pypi",
+            ),
+            (
+                "Project-URL",
+                "Bug Tracker, https://github.com/bryceclaughton/x13binary-pypi/issues",
             ),
             ("Requires-Python", "~=3.5"),
         ],
