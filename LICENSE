@@ -44,6 +44,5 @@ carries the following statement:
   not cause damage, harm, or embarrassment to the United States/Commerce. The
   United States/Commerce expressly reserve all rights and remedies.
 
-The remaining code is copyright by the authors of the R package, and released
-under the terms of the GNU General Public License, Version 2 or later
-("GPL (>= 2)".
+The remaining code is copyright by the authors of the Python package, and released
+under the terms of the MIT License.
