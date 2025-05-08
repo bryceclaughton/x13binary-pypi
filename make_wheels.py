@@ -173,11 +173,9 @@ def write_x13_wheel(
         version=version,
         tag=f"py3-none-{platform}",
         metadata=[
-            (
-                "Summary",
-                "The US Census Bureau provides a seasonal adjustment now called 'X-13ARIMA-SEATS' building on both earlier programs called X-11 and X-12 as well as the SEATS program by the Bank of Spain.",
-            ),
+            ("Summary", "X13-ARIMA-SEATS installable binary through Python."),
             ("Description-Content-Type", "text/markdown"),
+            ("License-Expression", "MIT"),
             ("License-File", "x13binary/LICENSE"),
             ("Classifier", "Development Status :: 4 - Beta"),
             ("Classifier", "Intended Audience :: Developers"),

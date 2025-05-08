@@ -1,4 +1,4 @@
-X13-ARIMA-SETAS PyPI distribution
+X13-ARIMA-SEATS PyPI distribution
 =================================
 
 The US Census Bureau provides a seasonal adjustment program now called 'X-13ARIMA-SEATS' building on both earlier programs called X-11 and X-12 as well as the SEATS program by the Bank of Spain.
